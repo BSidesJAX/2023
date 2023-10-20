@@ -12,7 +12,7 @@ main:
   - title: "FAQ"
     url: /faq/
   - title: "CTF"
-    url: "https://bsidesjax2023.ctfd.io/"
+    url: "/ctf/"
   - title: "Badges"
     url: "https://github.com/blackandwhitehat/BSidesJAX_2023_Badge"
   - title: "Sponsors"
