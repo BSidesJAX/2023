@@ -2,12 +2,14 @@
 permalink: /ctf/
 title: "Capture The Flag"
 author_profile: false
+layout: splash
+classes: wide
 ---
 
-Sponsored by Availity and Strawhacks
+The 2023 event ended at 15:30 EST on October 14th, 2023.
 
-There will be a Capture the Flag (CTF) competition at this year's conference.
+![image-center](/assets/images/ctf-final-scoreboard.png){: .align-center}
 
-The CTF will showcase a diverse range of challenges with varying difficulties, ensuring there's something for everyone, regardless of your skill level.
 
-Additional details and registration links will be posted here, closer to the event.
+The 2023 Capture The Flag was sponsored by [Availity](https://www.availity.com) and created by the [Strawhacks](https://https://strawhacks.github.io/) CTF team.
+
